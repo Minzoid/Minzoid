@@ -78,8 +78,8 @@
 ## 📫 Contact Me
 
 * 💬 Discord: **YourName#0000**
-* 📧 Email: **[your@email.com](mailto:your@email.com)**
-* 🌍 GitHub: **[https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)**
+* 📧 Email: **[your@email.com](mailto:mikahosina@gmail.com)**
+* 🌍 GitHub: **[https://github.com/YOUR_USERNAME](https://github.com/mikahosina)**
 
 ---
 
