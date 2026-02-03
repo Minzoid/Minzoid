@@ -47,32 +47,7 @@
 * Backend logic
 * OOP-based systems
 * Clean architecture projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikahosina&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikahosina&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🧪 Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikahosina&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🖼️ Featured Minecraft Visual
-
-<p align="center">
-  <img src="https://wallpapercave.com/wp/wp7250084.jpg" width="600" />
-</p>
-
+  
 ---
 
 ## 📫 Contact Me
