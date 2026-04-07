@@ -52,9 +52,9 @@
 
 ## 📫 Contact Me
 
-* 💬 Discord: **YourName#0000**
-* 📧 Email: **[your@email.com](mailto:mikahosina@gmail.com)**
-* 🌍 GitHub: **[https://github.com/YOUR_USERNAME](https://github.com/mikahosina)**
+* 💬 Discord: **mika_hoshizora**
+* 📧 Email: **[mikahosina@gmail.com](mailto:mikahosina@gmail.com)**
+* 🌍 GitHub: **[https://github.com/MikaHosina](https://github.com/mikahosina)**
 
 ---
 
