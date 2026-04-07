@@ -54,7 +54,7 @@
 
 * 💬 Discord: **mika_hoshizora**
 * 📧 Email: **[mikahosina@gmail.com](mailto:mikahosina@gmail.com)**
-* 🌍 GitHub: **[https://github.com/MikaHosina](https://github.com/mikahosina)**
+* 🌍 GitHub: **[https://github.com/MikaHosina](https://github.com/Minzoid)**
 
 ---
 
