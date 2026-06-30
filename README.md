@@ -52,9 +52,9 @@
 
 ## 📫 Contact Me
 
-* 💬 Discord: **mika_hoshizora**
-* 📧 Email: **[mikahosina@gmail.com](mailto:mikahosina@gmail.com)**
-* 🌍 GitHub: **[https://github.com/MikaHosina](https://github.com/Minzoid)**
+* 💬 Discord: **minzoid.sh**
+* 📧 Email: **[minzoid.work@gmail.com](mailto:minzoid.work@gmail.com)**
+* 🌍 GitHub: **[https://github.com/Minzoid](https://github.com/Minzoid)**
 
 ---
 
